@@ -41,7 +41,7 @@ Provides a high-level view of overall business performance.
 - Total Revenue, Orders, Customers
 - Revenue by channel and store
 
-![Sales Overview](dashboard_sales_overview.png)
+![Sales Overview](dashboard_sales_overview.PNG)
 
 ---
 
@@ -61,7 +61,7 @@ Analyses revenue drivers and pricing dynamics.
 - Category-level pricing vs volume analysis
 - Margin awareness across product segments
 
-![Product Performance](dashboard_product_category.png)
+![Product Performance](dashboard_product_category.PNG)
 
 ---
 
@@ -71,7 +71,7 @@ A leadership-focused view designed for quick decision-making.
 - Revenue trend analysis
 - Key business insights and performance drivers
 
-![Executive Summary](dashboard_executive_summary.png)
+![Executive Summary](dashboard_executive_summary.PNG)
 
 ---
 
