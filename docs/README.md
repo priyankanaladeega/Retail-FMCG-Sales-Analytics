@@ -51,7 +51,7 @@ Focuses on growth trends and performance over time.
 - Rolling 3-month revenue
 - Running totals
 
-![Time Intelligence](dashboard_time_intelligence.png)
+![Time Intelligence](dashboard_time_intelligence.PNG)
 
 ---
 
