@@ -37,7 +37,7 @@ The model supports scalable time-based analysis and category-level performance i
 # Dashboards
 
 # Sales Overview
-Provides a high-level view of overall business performance.
+Provides a high-level view of overall business performance
 - Total Revenue, Orders, Customers
 - Revenue by channel and store
 
