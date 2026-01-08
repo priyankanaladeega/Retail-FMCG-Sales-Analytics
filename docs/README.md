@@ -30,7 +30,7 @@ The data follows a star schema design:
 
 The model supports scalable time-based analysis and category-level performance insights.
 
-![Data Model](docs/data_model.png)
+![Data Model](data_model.png)
 
 ---
 
@@ -41,7 +41,7 @@ Provides a high-level view of overall business performance.
 - Total Revenue, Orders, Customers
 - Revenue by channel and store
 
-![Sales Overview](docs/dashboard_sales_overview.png)
+![Sales Overview](dashboard_sales_overview.png)
 
 ---
 
@@ -51,7 +51,7 @@ Focuses on growth trends and performance over time.
 - Rolling 3-month revenue
 - Running totals
 
-![Time Intelligence](docs/dashboard_time_intelligence.png)
+![Time Intelligence](dashboard_time_intelligence.png)
 
 ---
 
@@ -61,7 +61,7 @@ Analyses revenue drivers and pricing dynamics.
 - Category-level pricing vs volume analysis
 - Margin awareness across product segments
 
-![Product Performance](docs/dashboard_product_category.png)
+![Product Performance](dashboard_product_category.png)
 
 ---
 
@@ -71,7 +71,7 @@ A leadership-focused view designed for quick decision-making.
 - Revenue trend analysis
 - Key business insights and performance drivers
 
-![Executive Summary](docs/dashboard_executive_summary.png)
+![Executive Summary](dashboard_executive_summary.png)
 
 ---
 
