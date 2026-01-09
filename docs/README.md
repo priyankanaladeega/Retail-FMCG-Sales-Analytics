@@ -39,7 +39,7 @@ The model supports scalable time-based analysis and category-level performance i
 # Sales Overview
 Provides a high-level view of overall business performance
 - Total Revenue, Orders, Customers
-- Revenue by channel and store
+- Revenue & Sales by store
 
 ![Sales Overview](dashboard_sales_overview_v2.PNG)
 
@@ -82,6 +82,11 @@ A leadership-focused view designed for quick decision-making.
 - Premium products contribute strong revenue with lower sales volumes.
 
 ---
+# Business Questions Answered
+- Are we growing month-over-month?
+- Which stores drive most revenue?
+- Which product categories contribute highest revenue and volume?
+- Where is margin pressure visible (high-volume vs premium products)?
 
 # Future Enhancements
 - Customer segmentation and repeat purchase analysis
