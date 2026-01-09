@@ -36,7 +36,7 @@ The model supports scalable time-based analysis and category-level performance i
 
 # Dashboards
 
-# Sales Overview
+## Sales Overview
 Provides a high-level view of overall business performance
 - Total Revenue, Orders, Customers
 - Revenue & Sales by store
@@ -45,7 +45,7 @@ Provides a high-level view of overall business performance
 
 ---
 
-# Time Intelligence
+## Time Intelligence
 Focuses on growth trends and performance over time.
 - Month-on-Month revenue growth
 - Rolling 3-month revenue
@@ -55,7 +55,7 @@ Focuses on growth trends and performance over time.
 
 ---
 
-### 3️⃣ Product & Category Performance
+## Product & Category Performance
 Analyses revenue drivers and pricing dynamics.
 - Top products by revenue
 - Category-level pricing vs volume analysis
@@ -65,7 +65,7 @@ Analyses revenue drivers and pricing dynamics.
 
 ---
 
-### 4️⃣ Executive Summary
+## Executive Summary
 A leadership-focused view designed for quick decision-making.
 - Core KPIs (Revenue, Orders, Margin)
 - Revenue trend analysis
